@@ -16,3 +16,6 @@ php artisan view:cache
 
 # Run any database migrations
 php artisan migrate --force
+
+# Run the app
+php artisan serve
