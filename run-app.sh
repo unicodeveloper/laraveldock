@@ -2,9 +2,6 @@
 
 # Make sure this file has executable permissions, run `chmod +x run-app.sh` to ensure it does
 
-# Build assets using NPM
-npm run build
-
 # Clear cache
 php artisan optimize:clear
 
