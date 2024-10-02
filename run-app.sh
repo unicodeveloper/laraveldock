@@ -18,4 +18,4 @@ php artisan view:cache
 php artisan migrate --force
 
 # Run the app
-php artisan serve
+php artisan serve --host=0.0.0.0
